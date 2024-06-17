@@ -1,40 +1,40 @@
-Tamanho: 10
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 2364
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 2034
+Tamanho: 133
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 9266
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4284
 
-Tamanho: 20
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 3256
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 2505
+Tamanho: 266
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 12490
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4061
 
-Tamanho: 30
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 3745
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 2711
+Tamanho: 399
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 17188
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5244
 
-Tamanho: 40
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 4918
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 3663
+Tamanho: 532
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 18225
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4987
 
-Tamanho: 50
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 5374
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 3929
+Tamanho: 665
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 20608
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6429
 
-Tamanho: 60
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 6123
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4024
+Tamanho: 798
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 23488
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6217
 
-Tamanho: 70
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 7118
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 3994
+Tamanho: 931
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 23854
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7083
 
-Tamanho: 80
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 6874
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4359
+Tamanho: 1064
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 25768
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5992
 
-Tamanho: 90
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 7662
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4966
+Tamanho: 1197
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 28645
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5869
 
-Tamanho: 100
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 8212
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4107
+Tamanho: 1330
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 31157
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6784
 

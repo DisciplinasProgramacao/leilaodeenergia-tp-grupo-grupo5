@@ -3,7 +3,12 @@ package codigo.guloso;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+
+import codigo.lance.Lance;
+
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
@@ -11,7 +16,7 @@ public class TesteEstrategiasGulosas {
 
     public static void main(String[] args) {
         int energiaDisponivel = 1000;
-        int T = 10; // tamanho dos conjuntos
+        int T =lerTamanhoMaximo(); // tamanho dos conjuntos
         StringBuilder resultados = new StringBuilder();
         
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("codigo/guloso/resultados.txt"))) {
@@ -66,4 +71,14 @@ public class TesteEstrategiasGulosas {
         }
         return lances;
     }
+        private static int lerTamanhoMaximo() {
+        int T = 0;
+        try (BufferedReader reader = new BufferedReader(new FileReader("codigo/backtracking/T.txt"))) {
+            T = Integer.parseInt(reader.readLine());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return T;
+    }
+
 }

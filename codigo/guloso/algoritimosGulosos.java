@@ -2,19 +2,7 @@ package codigo.guloso;
 import java.util.Comparator;
 import java.util.List;
 
-class Lance {
-    int quantidade;
-    int valor;
-
-    Lance(int quantidade, int valor) {
-        this.quantidade = quantidade;
-        this.valor = valor;
-    }
-
-    double valorPorMegawatt() {
-        return (double) valor / quantidade;
-    }
-}
+import codigo.lance.Lance;
 
 public class algoritimosGulosos {
 
