@@ -1,0 +1,530 @@
+Tempo: 12 ms
+Valor: 40348
+Energia usada: 7962
+Lances escolhidos: E25 E24 E23 E22 E21 E20 E18 E17 E16 E15 E14 E13 E11 E10 E9 E7 E6 E4 E3 E2 E1 
+
+Tempo: 12 ms
+Valor: 26725
+Energia usada: 7588
+Lances escolhidos: E25 E24 E23 E22 E20 E19 E18 E16 E15 E14 E13 E12 E11 E9 E7 E6 E5 E4 E3 
+
+Tamanho: 133
+Tempo: 10 ms
+Valor: 8175
+Lances escolhidos: Empresa 116 Empresa 92 Empresa 85 Empresa 81 Empresa 72 Empresa 69 Empresa 60 Empresa 41 Empresa 39 Empresa 38 Empresa 31 Empresa 30 Empresa 27 
+
+Tamanho: 133
+Tempo: 3 ms
+Valor: 13725
+Lances escolhidos: Empresa 132 Empresa 127 Empresa 120 Empresa 118 Empresa 111 Empresa 103 Empresa 99 Empresa 92 Empresa 83 Empresa 77 Empresa 73 Empresa 37 Empresa 35 Empresa 31 Empresa 24 Empresa 17 Empresa 13 Empresa 5 
+
+Tamanho: 133
+Tempo: 3 ms
+Valor: 11516
+Lances escolhidos: Empresa 129 Empresa 128 Empresa 126 Empresa 122 Empresa 113 Empresa 111 Empresa 105 Empresa 101 Empresa 86 Empresa 81 Empresa 80 Empresa 77 Empresa 75 Empresa 41 Empresa 32 Empresa 4 
+
+Tamanho: 133
+Tempo: 4 ms
+Valor: 9683
+Lances escolhidos: Empresa 115 Empresa 107 Empresa 101 Empresa 85 Empresa 83 Empresa 82 Empresa 80 Empresa 77 Empresa 66 Empresa 59 Empresa 52 Empresa 44 Empresa 18 Empresa 13 
+
+Tamanho: 133
+Tempo: 3 ms
+Valor: 7309
+Lances escolhidos: Empresa 131 Empresa 128 Empresa 123 Empresa 112 Empresa 97 Empresa 79 Empresa 74 Empresa 64 Empresa 60 Empresa 57 Empresa 39 
+
+Tamanho: 133
+Tempo: 3 ms
+Valor: 7715
+Lances escolhidos: Empresa 122 Empresa 107 Empresa 87 Empresa 83 Empresa 71 Empresa 59 Empresa 58 Empresa 46 Empresa 45 Empresa 8 Empresa 5 
+
+Tamanho: 133
+Tempo: 2 ms
+Valor: 8315
+Lances escolhidos: Empresa 129 Empresa 108 Empresa 86 Empresa 85 Empresa 70 Empresa 69 Empresa 59 Empresa 56 Empresa 52 Empresa 17 Empresa 9 Empresa 5 
+
+Tamanho: 133
+Tempo: 2 ms
+Valor: 9674
+Lances escolhidos: Empresa 119 Empresa 100 Empresa 91 Empresa 74 Empresa 53 Empresa 51 Empresa 48 Empresa 44 Empresa 34 Empresa 22 Empresa 17 Empresa 13 Empresa 8 Empresa 4 
+
+Tamanho: 133
+Tempo: 3 ms
+Valor: 9618
+Lances escolhidos: Empresa 121 Empresa 100 Empresa 86 Empresa 72 Empresa 69 Empresa 63 Empresa 62 Empresa 52 Empresa 46 Empresa 35 Empresa 30 Empresa 17 
+
+Tamanho: 133
+Tempo: 2 ms
+Valor: 9626
+Lances escolhidos: Empresa 132 Empresa 119 Empresa 114 Empresa 113 Empresa 80 Empresa 74 Empresa 56 Empresa 53 Empresa 50 Empresa 29 Empresa 18 Empresa 15 Empresa 5 
+
+Tamanho: 133 - Média de tempo: 3 ms
+
+Tamanho: 266
+Tempo: 5 ms
+Valor: 15111
+Lances escolhidos: Empresa 262 Empresa 261 Empresa 257 Empresa 253 Empresa 202 Empresa 193 Empresa 183 Empresa 180 Empresa 168 Empresa 160 Empresa 139 Empresa 138 Empresa 124 Empresa 117 Empresa 115 Empresa 109 Empresa 74 Empresa 69 Empresa 63 Empresa 58 Empresa 34 Empresa 7 
+
+Tamanho: 266
+Tempo: 4 ms
+Valor: 10894
+Lances escolhidos: Empresa 229 Empresa 214 Empresa 178 Empresa 176 Empresa 161 Empresa 133 Empresa 132 Empresa 127 Empresa 109 Empresa 98 Empresa 93 Empresa 91 Empresa 56 Empresa 32 Empresa 31 Empresa 16 Empresa 14 Empresa 10 
+
+Tamanho: 266
+Tempo: 6 ms
+Valor: 16405
+Lances escolhidos: Empresa 264 Empresa 245 Empresa 238 Empresa 228 Empresa 227 Empresa 211 Empresa 204 Empresa 193 Empresa 188 Empresa 186 Empresa 180 Empresa 155 Empresa 124 Empresa 121 Empresa 114 Empresa 105 Empresa 89 Empresa 86 Empresa 84 Empresa 70 Empresa 62 Empresa 38 Empresa 7 Empresa 3 
+
+Tamanho: 266
+Tempo: 2 ms
+Valor: 13364
+Lances escolhidos: Empresa 263 Empresa 256 Empresa 233 Empresa 177 Empresa 173 Empresa 154 Empresa 143 Empresa 138 Empresa 134 Empresa 124 Empresa 113 Empresa 106 Empresa 103 Empresa 99 Empresa 89 Empresa 75 Empresa 74 Empresa 63 Empresa 55 Empresa 17 
+
+Tamanho: 266
+Tempo: 15 ms
+Valor: 16394
+Lances escolhidos: Empresa 258 Empresa 252 Empresa 247 Empresa 245 Empresa 242 Empresa 208 Empresa 174 Empresa 170 Empresa 169 Empresa 166 Empresa 163 Empresa 156 Empresa 138 Empresa 136 Empresa 124 Empresa 120 Empresa 87 Empresa 86 Empresa 67 Empresa 58 Empresa 28 Empresa 27 
+
+Tamanho: 266
+Tempo: 3 ms
+Valor: 13025
+Lances escolhidos: Empresa 258 Empresa 212 Empresa 211 Empresa 200 Empresa 198 Empresa 197 Empresa 165 Empresa 158 Empresa 154 Empresa 146 Empresa 141 Empresa 120 Empresa 115 Empresa 114 Empresa 61 Empresa 37 Empresa 36 Empresa 23 Empresa 22 Empresa 8 
+
+Tamanho: 266
+Tempo: 4 ms
+Valor: 12174
+Lances escolhidos: Empresa 243 Empresa 231 Empresa 207 Empresa 206 Empresa 204 Empresa 193 Empresa 184 Empresa 146 Empresa 141 Empresa 140 Empresa 131 Empresa 81 Empresa 78 Empresa 73 Empresa 54 Empresa 36 Empresa 33 Empresa 26 Empresa 25 Empresa 14 
+
+Tamanho: 266
+Tempo: 3 ms
+Valor: 11801
+Lances escolhidos: Empresa 258 Empresa 245 Empresa 232 Empresa 181 Empresa 165 Empresa 143 Empresa 122 Empresa 119 Empresa 117 Empresa 105 Empresa 104 Empresa 61 Empresa 60 Empresa 52 Empresa 43 Empresa 32 Empresa 10 Empresa 2 
+
+Tamanho: 266
+Tempo: 5 ms
+Valor: 15226
+Lances escolhidos: Empresa 255 Empresa 254 Empresa 228 Empresa 221 Empresa 207 Empresa 196 Empresa 193 Empresa 190 Empresa 186 Empresa 182 Empresa 175 Empresa 157 Empresa 137 Empresa 135 Empresa 128 Empresa 85 Empresa 69 Empresa 65 Empresa 64 Empresa 38 Empresa 18 
+
+Tamanho: 266
+Tempo: 2 ms
+Valor: 12881
+Lances escolhidos: Empresa 257 Empresa 254 Empresa 246 Empresa 238 Empresa 195 Empresa 189 Empresa 185 Empresa 182 Empresa 149 Empresa 131 Empresa 100 Empresa 98 Empresa 89 Empresa 79 Empresa 57 Empresa 46 Empresa 40 Empresa 32 Empresa 23 Empresa 21 Empresa 5 
+
+Tamanho: 266 - Média de tempo: 5 ms
+
+Tamanho: 399
+Tempo: 3 ms
+Valor: 19151
+Lances escolhidos: Empresa 396 Empresa 329 Empresa 327 Empresa 326 Empresa 322 Empresa 312 Empresa 291 Empresa 274 Empresa 273 Empresa 230 Empresa 210 Empresa 161 Empresa 145 Empresa 130 Empresa 98 Empresa 90 Empresa 85 Empresa 77 Empresa 75 Empresa 72 Empresa 69 Empresa 62 Empresa 58 Empresa 57 Empresa 55 Empresa 38 Empresa 26 Empresa 13 
+
+Tamanho: 399
+Tempo: 3 ms
+Valor: 15942
+Lances escolhidos: Empresa 382 Empresa 372 Empresa 365 Empresa 335 Empresa 273 Empresa 272 Empresa 266 Empresa 254 Empresa 240 Empresa 237 Empresa 235 Empresa 200 Empresa 145 Empresa 142 Empresa 139 Empresa 117 Empresa 77 Empresa 74 Empresa 58 Empresa 38 Empresa 20 Empresa 11 Empresa 8 
+
+Tamanho: 399
+Tempo: 4 ms
+Valor: 17580
+Lances escolhidos: Empresa 379 Empresa 375 Empresa 351 Empresa 345 Empresa 334 Empresa 316 Empresa 297 Empresa 294 Empresa 283 Empresa 269 Empresa 237 Empresa 224 Empresa 190 Empresa 181 Empresa 177 Empresa 171 Empresa 168 Empresa 155 Empresa 153 Empresa 146 Empresa 137 Empresa 133 Empresa 128 Empresa 123 Empresa 121 Empresa 117 Empresa 94 Empresa 28 Empresa 10 
+
+Tamanho: 399
+Tempo: 3 ms
+Valor: 16315
+Lances escolhidos: Empresa 391 Empresa 386 Empresa 382 Empresa 355 Empresa 354 Empresa 336 Empresa 333 Empresa 311 Empresa 304 Empresa 303 Empresa 245 Empresa 221 Empresa 180 Empresa 161 Empresa 136 Empresa 122 Empresa 120 Empresa 107 Empresa 91 Empresa 81 Empresa 66 Empresa 55 Empresa 30 Empresa 28 Empresa 27 
+
+Tamanho: 399
+Tempo: 3 ms
+Valor: 15884
+Lances escolhidos: Empresa 395 Empresa 326 Empresa 294 Empresa 281 Empresa 269 Empresa 249 Empresa 238 Empresa 232 Empresa 230 Empresa 225 Empresa 209 Empresa 206 Empresa 203 Empresa 195 Empresa 190 Empresa 173 Empresa 163 Empresa 151 Empresa 148 Empresa 133 Empresa 117 Empresa 107 Empresa 95 Empresa 42 Empresa 24 
+
+Tamanho: 399
+Tempo: 3 ms
+Valor: 16530
+Lances escolhidos: Empresa 391 Empresa 337 Empresa 327 Empresa 307 Empresa 301 Empresa 299 Empresa 253 Empresa 245 Empresa 226 Empresa 215 Empresa 193 Empresa 178 Empresa 177 Empresa 175 Empresa 168 Empresa 142 Empresa 86 Empresa 79 Empresa 50 Empresa 48 Empresa 32 
+
+Tamanho: 399
+Tempo: 4 ms
+Valor: 15503
+Lances escolhidos: Empresa 378 Empresa 376 Empresa 370 Empresa 364 Empresa 357 Empresa 335 Empresa 320 Empresa 299 Empresa 280 Empresa 249 Empresa 241 Empresa 185 Empresa 157 Empresa 142 Empresa 124 Empresa 120 Empresa 83 Empresa 71 Empresa 60 Empresa 44 Empresa 39 Empresa 23 
+
+Tamanho: 399
+Tempo: 5 ms
+Valor: 16828
+Lances escolhidos: Empresa 389 Empresa 369 Empresa 368 Empresa 365 Empresa 351 Empresa 316 Empresa 311 Empresa 304 Empresa 290 Empresa 287 Empresa 271 Empresa 259 Empresa 201 Empresa 169 Empresa 131 Empresa 123 Empresa 103 Empresa 100 Empresa 94 Empresa 82 Empresa 71 Empresa 43 Empresa 29 Empresa 23 Empresa 12 
+
+Tamanho: 399
+Tempo: 4 ms
+Valor: 14671
+Lances escolhidos: Empresa 378 Empresa 355 Empresa 349 Empresa 319 Empresa 314 Empresa 308 Empresa 261 Empresa 229 Empresa 225 Empresa 206 Empresa 181 Empresa 168 Empresa 164 Empresa 152 Empresa 140 Empresa 128 Empresa 112 Empresa 102 Empresa 67 Empresa 45 Empresa 41 Empresa 20 Empresa 16 
+
+Tamanho: 399
+Tempo: 4 ms
+Valor: 15667
+Lances escolhidos: Empresa 393 Empresa 391 Empresa 389 Empresa 379 Empresa 374 Empresa 351 Empresa 294 Empresa 293 Empresa 250 Empresa 246 Empresa 239 Empresa 216 Empresa 215 Empresa 214 Empresa 148 Empresa 131 Empresa 124 Empresa 112 Empresa 78 Empresa 67 Empresa 63 Empresa 59 Empresa 56 Empresa 51 Empresa 24 
+
+Tamanho: 399 - Média de tempo: 4 ms
+
+Tamanho: 532
+Tempo: 6 ms
+Valor: 18120
+Lances escolhidos: Empresa 530 Empresa 523 Empresa 512 Empresa 501 Empresa 499 Empresa 497 Empresa 413 Empresa 407 Empresa 386 Empresa 377 Empresa 358 Empresa 346 Empresa 314 Empresa 252 Empresa 251 Empresa 250 Empresa 233 Empresa 232 Empresa 230 Empresa 226 Empresa 223 Empresa 214 Empresa 195 Empresa 194 Empresa 183 Empresa 179 Empresa 174 Empresa 164 Empresa 93 Empresa 52 Empresa 43 Empresa 41 Empresa 22 Empresa 1 
+
+Tamanho: 532
+Tempo: 6 ms
+Valor: 18382
+Lances escolhidos: Empresa 488 Empresa 458 Empresa 446 Empresa 440 Empresa 430 Empresa 421 Empresa 395 Empresa 351 Empresa 347 Empresa 317 Empresa 289 Empresa 258 Empresa 231 Empresa 208 Empresa 205 Empresa 193 Empresa 174 Empresa 161 Empresa 147 Empresa 130 Empresa 91 Empresa 76 Empresa 71 Empresa 57 Empresa 55 Empresa 27 Empresa 26 Empresa 12 
+
+Tamanho: 532
+Tempo: 7 ms
+Valor: 16236
+Lances escolhidos: Empresa 527 Empresa 522 Empresa 495 Empresa 489 Empresa 486 Empresa 463 Empresa 453 Empresa 447 Empresa 440 Empresa 436 Empresa 420 Empresa 322 Empresa 321 Empresa 295 Empresa 281 Empresa 268 Empresa 266 Empresa 243 Empresa 231 Empresa 216 Empresa 213 Empresa 179 Empresa 130 Empresa 127 Empresa 80 Empresa 79 Empresa 53 Empresa 47 Empresa 39 Empresa 10 
+
+Tamanho: 532
+Tempo: 6 ms
+Valor: 19699
+Lances escolhidos: Empresa 501 Empresa 488 Empresa 475 Empresa 474 Empresa 465 Empresa 383 Empresa 374 Empresa 373 Empresa 367 Empresa 337 Empresa 285 Empresa 268 Empresa 246 Empresa 245 Empresa 230 Empresa 229 Empresa 228 Empresa 227 Empresa 204 Empresa 170 Empresa 158 Empresa 154 Empresa 133 Empresa 129 Empresa 100 Empresa 97 Empresa 61 Empresa 44 Empresa 23 Empresa 18 
+
+Tamanho: 532
+Tempo: 7 ms
+Valor: 18567
+Lances escolhidos: Empresa 512 Empresa 494 Empresa 460 Empresa 458 Empresa 413 Empresa 407 Empresa 313 Empresa 300 Empresa 282 Empresa 278 Empresa 258 Empresa 226 Empresa 203 Empresa 201 Empresa 196 Empresa 185 Empresa 180 Empresa 150 Empresa 140 Empresa 113 Empresa 100 Empresa 96 Empresa 94 Empresa 82 Empresa 74 Empresa 68 Empresa 54 
+
+Tamanho: 532
+Tempo: 7 ms
+Valor: 15745
+Lances escolhidos: Empresa 520 Empresa 462 Empresa 424 Empresa 414 Empresa 401 Empresa 364 Empresa 349 Empresa 330 Empresa 248 Empresa 242 Empresa 236 Empresa 212 Empresa 209 Empresa 188 Empresa 180 Empresa 140 Empresa 118 Empresa 85 Empresa 83 Empresa 63 Empresa 36 Empresa 35 Empresa 29 Empresa 27 
+
+Tamanho: 532
+Tempo: 7 ms
+Valor: 19633
+Lances escolhidos: Empresa 526 Empresa 519 Empresa 484 Empresa 474 Empresa 473 Empresa 471 Empresa 406 Empresa 399 Empresa 395 Empresa 358 Empresa 334 Empresa 326 Empresa 316 Empresa 275 Empresa 258 Empresa 249 Empresa 248 Empresa 233 Empresa 230 Empresa 223 Empresa 210 Empresa 203 Empresa 201 Empresa 169 Empresa 143 Empresa 116 Empresa 107 Empresa 97 Empresa 84 Empresa 26 Empresa 16 
+
+Tamanho: 532
+Tempo: 6 ms
+Valor: 17426
+Lances escolhidos: Empresa 504 Empresa 501 Empresa 494 Empresa 485 Empresa 472 Empresa 437 Empresa 432 Empresa 419 Empresa 383 Empresa 356 Empresa 350 Empresa 346 Empresa 340 Empresa 327 Empresa 307 Empresa 254 Empresa 249 Empresa 226 Empresa 221 Empresa 219 Empresa 204 Empresa 143 Empresa 138 Empresa 97 Empresa 57 Empresa 35 Empresa 34 
+
+Tamanho: 532
+Tempo: 4 ms
+Valor: 18798
+Lances escolhidos: Empresa 529 Empresa 528 Empresa 527 Empresa 513 Empresa 499 Empresa 476 Empresa 468 Empresa 464 Empresa 434 Empresa 428 Empresa 408 Empresa 398 Empresa 394 Empresa 380 Empresa 371 Empresa 364 Empresa 363 Empresa 276 Empresa 272 Empresa 231 Empresa 219 Empresa 214 Empresa 212 Empresa 179 Empresa 71 Empresa 58 Empresa 48 Empresa 43 Empresa 38 Empresa 20 
+
+Tamanho: 532
+Tempo: 4 ms
+Valor: 21814
+Lances escolhidos: Empresa 526 Empresa 505 Empresa 497 Empresa 482 Empresa 461 Empresa 439 Empresa 402 Empresa 392 Empresa 384 Empresa 368 Empresa 343 Empresa 336 Empresa 335 Empresa 325 Empresa 305 Empresa 222 Empresa 219 Empresa 203 Empresa 176 Empresa 175 Empresa 173 Empresa 164 Empresa 163 Empresa 142 Empresa 138 Empresa 135 Empresa 132 Empresa 103 Empresa 91 Empresa 75 Empresa 66 Empresa 65 Empresa 62 
+
+Tamanho: 532 - Média de tempo: 6 ms
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 19880
+Lances escolhidos: Empresa 662 Empresa 647 Empresa 639 Empresa 535 Empresa 531 Empresa 514 Empresa 483 Empresa 479 Empresa 461 Empresa 450 Empresa 411 Empresa 401 Empresa 394 Empresa 358 Empresa 328 Empresa 322 Empresa 316 Empresa 306 Empresa 278 Empresa 272 Empresa 220 Empresa 215 Empresa 213 Empresa 195 Empresa 173 Empresa 141 Empresa 136 Empresa 106 Empresa 66 Empresa 52 
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 18278
+Lances escolhidos: Empresa 600 Empresa 581 Empresa 546 Empresa 510 Empresa 483 Empresa 475 Empresa 464 Empresa 461 Empresa 455 Empresa 429 Empresa 415 Empresa 370 Empresa 358 Empresa 337 Empresa 317 Empresa 256 Empresa 255 Empresa 228 Empresa 168 Empresa 137 Empresa 133 Empresa 126 Empresa 76 Empresa 70 Empresa 67 Empresa 65 Empresa 51 Empresa 44 Empresa 42 Empresa 39 Empresa 38 
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 19731
+Lances escolhidos: Empresa 662 Empresa 465 Empresa 433 Empresa 412 Empresa 371 Empresa 340 Empresa 307 Empresa 302 Empresa 258 Empresa 249 Empresa 225 Empresa 221 Empresa 197 Empresa 193 Empresa 186 Empresa 167 Empresa 146 Empresa 145 Empresa 143 Empresa 105 Empresa 98 Empresa 77 Empresa 63 Empresa 57 Empresa 55 Empresa 40 Empresa 27 Empresa 26 
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 21368
+Lances escolhidos: Empresa 633 Empresa 631 Empresa 618 Empresa 546 Empresa 527 Empresa 498 Empresa 485 Empresa 442 Empresa 433 Empresa 428 Empresa 408 Empresa 369 Empresa 329 Empresa 313 Empresa 312 Empresa 311 Empresa 291 Empresa 250 Empresa 235 Empresa 233 Empresa 225 Empresa 224 Empresa 218 Empresa 199 Empresa 197 Empresa 186 Empresa 174 Empresa 149 Empresa 114 Empresa 62 Empresa 6 
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 18378
+Lances escolhidos: Empresa 649 Empresa 582 Empresa 574 Empresa 517 Empresa 500 Empresa 486 Empresa 476 Empresa 470 Empresa 427 Empresa 388 Empresa 350 Empresa 348 Empresa 322 Empresa 315 Empresa 314 Empresa 306 Empresa 262 Empresa 251 Empresa 236 Empresa 228 Empresa 134 Empresa 127 Empresa 88 Empresa 76 Empresa 64 Empresa 45 Empresa 26 Empresa 11 
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 24447
+Lances escolhidos: Empresa 658 Empresa 651 Empresa 645 Empresa 642 Empresa 633 Empresa 607 Empresa 602 Empresa 601 Empresa 494 Empresa 474 Empresa 460 Empresa 428 Empresa 404 Empresa 395 Empresa 394 Empresa 388 Empresa 378 Empresa 323 Empresa 309 Empresa 237 Empresa 205 Empresa 204 Empresa 197 Empresa 186 Empresa 185 Empresa 140 Empresa 120 Empresa 116 Empresa 91 Empresa 86 Empresa 59 Empresa 49 Empresa 37 Empresa 30 Empresa 16 Empresa 6 
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 22765
+Lances escolhidos: Empresa 639 Empresa 634 Empresa 616 Empresa 613 Empresa 604 Empresa 574 Empresa 554 Empresa 548 Empresa 546 Empresa 475 Empresa 458 Empresa 429 Empresa 423 Empresa 361 Empresa 359 Empresa 341 Empresa 339 Empresa 333 Empresa 303 Empresa 290 Empresa 218 Empresa 171 Empresa 161 Empresa 142 Empresa 139 Empresa 115 Empresa 87 Empresa 76 Empresa 74 Empresa 68 Empresa 55 Empresa 46 Empresa 45 Empresa 13 Empresa 3 
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 22945
+Lances escolhidos: Empresa 660 Empresa 651 Empresa 634 Empresa 605 Empresa 587 Empresa 559 Empresa 529 Empresa 522 Empresa 518 Empresa 494 Empresa 469 Empresa 456 Empresa 452 Empresa 434 Empresa 407 Empresa 368 Empresa 360 Empresa 355 Empresa 327 Empresa 315 Empresa 314 Empresa 273 Empresa 260 Empresa 249 Empresa 243 Empresa 227 Empresa 217 Empresa 183 Empresa 181 Empresa 147 Empresa 146 Empresa 141 Empresa 110 Empresa 52 Empresa 36 Empresa 14 
+
+Tamanho: 665
+Tempo: 5 ms
+Valor: 22231
+Lances escolhidos: Empresa 638 Empresa 604 Empresa 577 Empresa 544 Empresa 505 Empresa 486 Empresa 481 Empresa 474 Empresa 464 Empresa 445 Empresa 424 Empresa 422 Empresa 413 Empresa 384 Empresa 374 Empresa 351 Empresa 325 Empresa 302 Empresa 299 Empresa 297 Empresa 296 Empresa 244 Empresa 243 Empresa 236 Empresa 234 Empresa 230 Empresa 219 Empresa 209 Empresa 195 Empresa 186 Empresa 160 Empresa 121 Empresa 56 Empresa 3 
+
+Tamanho: 665
+Tempo: 7 ms
+Valor: 18854
+Lances escolhidos: Empresa 635 Empresa 613 Empresa 599 Empresa 578 Empresa 572 Empresa 541 Empresa 520 Empresa 498 Empresa 488 Empresa 407 Empresa 395 Empresa 393 Empresa 345 Empresa 311 Empresa 291 Empresa 246 Empresa 211 Empresa 195 Empresa 190 Empresa 160 Empresa 133 Empresa 105 Empresa 80 Empresa 77 Empresa 39 Empresa 22 Empresa 7 Empresa 1 
+
+Tamanho: 665 - Média de tempo: 5 ms
+
+Tamanho: 798
+Tempo: 6 ms
+Valor: 21829
+Lances escolhidos: Empresa 768 Empresa 753 Empresa 737 Empresa 723 Empresa 709 Empresa 697 Empresa 686 Empresa 669 Empresa 668 Empresa 653 Empresa 626 Empresa 594 Empresa 578 Empresa 573 Empresa 566 Empresa 565 Empresa 533 Empresa 518 Empresa 481 Empresa 455 Empresa 441 Empresa 437 Empresa 435 Empresa 434 Empresa 433 Empresa 390 Empresa 376 Empresa 373 Empresa 305 Empresa 278 Empresa 253 Empresa 232 Empresa 215 Empresa 207 Empresa 79 
+
+Tamanho: 798
+Tempo: 6 ms
+Valor: 22981
+Lances escolhidos: Empresa 774 Empresa 773 Empresa 725 Empresa 723 Empresa 687 Empresa 671 Empresa 659 Empresa 610 Empresa 555 Empresa 537 Empresa 525 Empresa 500 Empresa 494 Empresa 459 Empresa 438 Empresa 421 Empresa 397 Empresa 352 Empresa 343 Empresa 306 Empresa 305 Empresa 259 Empresa 216 Empresa 198 Empresa 176 Empresa 173 Empresa 168 Empresa 142 Empresa 129 Empresa 118 Empresa 117 Empresa 64 Empresa 43 Empresa 34 Empresa 30 Empresa 29 Empresa 3 Empresa 0 
+
+Tamanho: 798
+Tempo: 7 ms
+Valor: 24778
+Lances escolhidos: Empresa 751 Empresa 738 Empresa 681 Empresa 679 Empresa 658 Empresa 640 Empresa 613 Empresa 605 Empresa 562 Empresa 554 Empresa 540 Empresa 485 Empresa 484 Empresa 450 Empresa 419 Empresa 377 Empresa 374 Empresa 362 Empresa 354 Empresa 335 Empresa 319 Empresa 303 Empresa 299 Empresa 257 Empresa 236 Empresa 232 Empresa 228 Empresa 218 Empresa 213 Empresa 160 Empresa 158 Empresa 150 Empresa 147 Empresa 133 Empresa 130 Empresa 94 Empresa 82 Empresa 72 Empresa 64 Empresa 29 
+
+Tamanho: 798
+Tempo: 6 ms
+Valor: 23304
+Lances escolhidos: Empresa 786 Empresa 778 Empresa 758 Empresa 733 Empresa 719 Empresa 713 Empresa 677 Empresa 672 Empresa 662 Empresa 660 Empresa 643 Empresa 612 Empresa 611 Empresa 610 Empresa 574 Empresa 558 Empresa 553 Empresa 541 Empresa 520 Empresa 489 Empresa 488 Empresa 453 Empresa 427 Empresa 396 Empresa 366 Empresa 358 Empresa 350 Empresa 304 Empresa 297 Empresa 253 Empresa 246 Empresa 185 Empresa 177 Empresa 167 Empresa 82 Empresa 62 Empresa 46 Empresa 37 
+
+Tamanho: 798
+Tempo: 6 ms
+Valor: 24874
+Lances escolhidos: Empresa 797 Empresa 790 Empresa 774 Empresa 744 Empresa 728 Empresa 689 Empresa 680 Empresa 672 Empresa 659 Empresa 634 Empresa 617 Empresa 599 Empresa 591 Empresa 508 Empresa 492 Empresa 479 Empresa 456 Empresa 454 Empresa 426 Empresa 421 Empresa 406 Empresa 332 Empresa 328 Empresa 326 Empresa 277 Empresa 267 Empresa 240 Empresa 239 Empresa 218 Empresa 183 Empresa 144 Empresa 131 Empresa 70 Empresa 68 Empresa 60 Empresa 18 
+
+Tamanho: 798
+Tempo: 6 ms
+Valor: 25506
+Lances escolhidos: Empresa 790 Empresa 788 Empresa 761 Empresa 756 Empresa 743 Empresa 727 Empresa 714 Empresa 708 Empresa 693 Empresa 686 Empresa 670 Empresa 648 Empresa 647 Empresa 631 Empresa 595 Empresa 584 Empresa 574 Empresa 562 Empresa 551 Empresa 545 Empresa 542 Empresa 532 Empresa 516 Empresa 506 Empresa 444 Empresa 425 Empresa 390 Empresa 362 Empresa 353 Empresa 282 Empresa 261 Empresa 231 Empresa 201 Empresa 179 Empresa 178 Empresa 138 
+
+Tamanho: 798
+Tempo: 6 ms
+Valor: 24721
+Lances escolhidos: Empresa 741 Empresa 731 Empresa 729 Empresa 706 Empresa 697 Empresa 690 Empresa 682 Empresa 674 Empresa 673 Empresa 648 Empresa 645 Empresa 643 Empresa 637 Empresa 615 Empresa 570 Empresa 564 Empresa 554 Empresa 504 Empresa 489 Empresa 479 Empresa 472 Empresa 454 Empresa 414 Empresa 404 Empresa 401 Empresa 301 Empresa 286 Empresa 274 Empresa 230 Empresa 209 Empresa 193 Empresa 189 Empresa 164 Empresa 127 Empresa 125 Empresa 105 Empresa 89 Empresa 79 Empresa 3 
+
+Tamanho: 798
+Tempo: 6 ms
+Valor: 21219
+Lances escolhidos: Empresa 794 Empresa 789 Empresa 726 Empresa 709 Empresa 703 Empresa 700 Empresa 699 Empresa 693 Empresa 639 Empresa 571 Empresa 564 Empresa 540 Empresa 534 Empresa 526 Empresa 492 Empresa 452 Empresa 427 Empresa 370 Empresa 366 Empresa 326 Empresa 308 Empresa 257 Empresa 207 Empresa 186 Empresa 176 Empresa 164 Empresa 130 Empresa 120 Empresa 116 Empresa 68 Empresa 39 Empresa 22 
+
+Tamanho: 798
+Tempo: 7 ms
+Valor: 23888
+Lances escolhidos: Empresa 774 Empresa 751 Empresa 740 Empresa 739 Empresa 686 Empresa 608 Empresa 595 Empresa 577 Empresa 554 Empresa 545 Empresa 528 Empresa 521 Empresa 491 Empresa 474 Empresa 464 Empresa 448 Empresa 440 Empresa 390 Empresa 338 Empresa 316 Empresa 313 Empresa 292 Empresa 267 Empresa 254 Empresa 242 Empresa 231 Empresa 204 Empresa 198 Empresa 176 Empresa 153 Empresa 135 Empresa 115 Empresa 95 Empresa 94 Empresa 68 Empresa 50 Empresa 14 
+
+Tamanho: 798
+Tempo: 10 ms
+Valor: 22615
+Lances escolhidos: Empresa 784 Empresa 712 Empresa 680 Empresa 657 Empresa 618 Empresa 608 Empresa 591 Empresa 527 Empresa 522 Empresa 521 Empresa 514 Empresa 511 Empresa 476 Empresa 473 Empresa 439 Empresa 427 Empresa 326 Empresa 320 Empresa 290 Empresa 259 Empresa 247 Empresa 243 Empresa 160 Empresa 159 Empresa 156 Empresa 140 Empresa 129 Empresa 119 Empresa 98 Empresa 94 Empresa 64 Empresa 28 Empresa 6 
+
+Tamanho: 798 - Média de tempo: 7 ms
+
+Tamanho: 931
+Tempo: 15 ms
+Valor: 22281
+Lances escolhidos: Empresa 929 Empresa 887 Empresa 805 Empresa 779 Empresa 762 Empresa 690 Empresa 680 Empresa 619 Empresa 563 Empresa 547 Empresa 545 Empresa 491 Empresa 450 Empresa 399 Empresa 380 Empresa 337 Empresa 289 Empresa 272 Empresa 235 Empresa 227 Empresa 194 Empresa 189 Empresa 188 Empresa 184 Empresa 182 Empresa 123 Empresa 118 Empresa 109 Empresa 93 Empresa 81 Empresa 75 Empresa 46 Empresa 7 
+
+Tamanho: 931
+Tempo: 12 ms
+Valor: 28070
+Lances escolhidos: Empresa 919 Empresa 904 Empresa 885 Empresa 874 Empresa 868 Empresa 797 Empresa 781 Empresa 760 Empresa 742 Empresa 723 Empresa 706 Empresa 686 Empresa 669 Empresa 622 Empresa 608 Empresa 588 Empresa 585 Empresa 550 Empresa 522 Empresa 502 Empresa 501 Empresa 483 Empresa 482 Empresa 429 Empresa 359 Empresa 353 Empresa 286 Empresa 282 Empresa 253 Empresa 220 Empresa 199 Empresa 193 Empresa 167 Empresa 144 Empresa 123 Empresa 121 Empresa 111 Empresa 85 Empresa 46 Empresa 41 Empresa 29 Empresa 21 
+
+Tamanho: 931
+Tempo: 12 ms
+Valor: 20229
+Lances escolhidos: Empresa 892 Empresa 861 Empresa 848 Empresa 708 Empresa 681 Empresa 635 Empresa 611 Empresa 597 Empresa 557 Empresa 537 Empresa 527 Empresa 519 Empresa 504 Empresa 497 Empresa 483 Empresa 448 Empresa 429 Empresa 395 Empresa 394 Empresa 374 Empresa 373 Empresa 308 Empresa 296 Empresa 294 Empresa 268 Empresa 210 Empresa 191 Empresa 153 Empresa 123 Empresa 115 Empresa 111 Empresa 83 Empresa 2 
+
+Tamanho: 931
+Tempo: 7 ms
+Valor: 25674
+Lances escolhidos: Empresa 929 Empresa 916 Empresa 877 Empresa 816 Empresa 782 Empresa 763 Empresa 749 Empresa 722 Empresa 705 Empresa 700 Empresa 593 Empresa 584 Empresa 552 Empresa 539 Empresa 514 Empresa 503 Empresa 488 Empresa 413 Empresa 399 Empresa 394 Empresa 387 Empresa 382 Empresa 373 Empresa 371 Empresa 352 Empresa 347 Empresa 346 Empresa 314 Empresa 271 Empresa 248 Empresa 215 Empresa 168 Empresa 161 Empresa 104 Empresa 81 Empresa 40 Empresa 37 Empresa 14 
+
+Tamanho: 931
+Tempo: 8 ms
+Valor: 22234
+Lances escolhidos: Empresa 812 Empresa 776 Empresa 768 Empresa 755 Empresa 680 Empresa 651 Empresa 619 Empresa 600 Empresa 590 Empresa 584 Empresa 489 Empresa 451 Empresa 440 Empresa 386 Empresa 380 Empresa 375 Empresa 284 Empresa 275 Empresa 245 Empresa 238 Empresa 216 Empresa 197 Empresa 182 Empresa 174 Empresa 167 Empresa 161 Empresa 129 Empresa 117 Empresa 116 Empresa 108 Empresa 90 Empresa 78 Empresa 36 Empresa 34 Empresa 18 Empresa 3 
+
+Tamanho: 931
+Tempo: 7 ms
+Valor: 15957
+Lances escolhidos: Empresa 904 Empresa 895 Empresa 859 Empresa 854 Empresa 809 Empresa 807 Empresa 792 Empresa 776 Empresa 760 Empresa 733 Empresa 709 Empresa 707 Empresa 687 Empresa 679 Empresa 666 Empresa 558 Empresa 462 Empresa 331 Empresa 311 Empresa 286 Empresa 255 Empresa 208 Empresa 140 Empresa 105 Empresa 100 Empresa 39 
+
+Tamanho: 931
+Tempo: 8 ms
+Valor: 26044
+Lances escolhidos: Empresa 877 Empresa 848 Empresa 838 Empresa 811 Empresa 783 Empresa 776 Empresa 754 Empresa 728 Empresa 727 Empresa 710 Empresa 704 Empresa 638 Empresa 634 Empresa 594 Empresa 503 Empresa 448 Empresa 445 Empresa 398 Empresa 389 Empresa 371 Empresa 370 Empresa 357 Empresa 348 Empresa 313 Empresa 307 Empresa 270 Empresa 186 Empresa 182 Empresa 132 Empresa 107 Empresa 99 Empresa 89 Empresa 80 Empresa 75 Empresa 54 Empresa 25 Empresa 12 
+
+Tamanho: 931
+Tempo: 8 ms
+Valor: 20797
+Lances escolhidos: Empresa 921 Empresa 873 Empresa 860 Empresa 858 Empresa 840 Empresa 837 Empresa 827 Empresa 820 Empresa 782 Empresa 729 Empresa 676 Empresa 643 Empresa 582 Empresa 551 Empresa 523 Empresa 522 Empresa 477 Empresa 468 Empresa 443 Empresa 429 Empresa 383 Empresa 382 Empresa 265 Empresa 227 Empresa 205 Empresa 175 Empresa 158 Empresa 145 Empresa 136 Empresa 123 Empresa 93 Empresa 50 Empresa 42 Empresa 14 
+
+Tamanho: 931
+Tempo: 10 ms
+Valor: 21546
+Lances escolhidos: Empresa 929 Empresa 924 Empresa 911 Empresa 896 Empresa 885 Empresa 876 Empresa 816 Empresa 779 Empresa 713 Empresa 698 Empresa 696 Empresa 675 Empresa 672 Empresa 667 Empresa 613 Empresa 591 Empresa 571 Empresa 521 Empresa 498 Empresa 494 Empresa 477 Empresa 439 Empresa 360 Empresa 273 Empresa 271 Empresa 241 Empresa 236 Empresa 235 Empresa 158 Empresa 155 Empresa 126 Empresa 88 Empresa 84 Empresa 46 Empresa 38 
+
+Tamanho: 931
+Tempo: 9 ms
+Valor: 21868
+Lances escolhidos: Empresa 921 Empresa 859 Empresa 805 Empresa 776 Empresa 770 Empresa 760 Empresa 747 Empresa 712 Empresa 702 Empresa 659 Empresa 606 Empresa 591 Empresa 533 Empresa 515 Empresa 459 Empresa 454 Empresa 444 Empresa 432 Empresa 414 Empresa 398 Empresa 380 Empresa 369 Empresa 324 Empresa 260 Empresa 205 Empresa 199 Empresa 177 Empresa 159 Empresa 150 Empresa 119 Empresa 70 Empresa 24 
+
+Tamanho: 931 - Média de tempo: 10 ms
+
+Tamanho: 1064
+Tempo: 12 ms
+Valor: 26366
+Lances escolhidos: Empresa 1036 Empresa 983 Empresa 960 Empresa 913 Empresa 880 Empresa 860 Empresa 830 Empresa 771 Empresa 764 Empresa 752 Empresa 722 Empresa 714 Empresa 687 Empresa 650 Empresa 644 Empresa 635 Empresa 630 Empresa 575 Empresa 536 Empresa 502 Empresa 408 Empresa 384 Empresa 382 Empresa 365 Empresa 350 Empresa 324 Empresa 262 Empresa 241 Empresa 220 Empresa 191 Empresa 135 Empresa 131 Empresa 122 Empresa 104 Empresa 99 Empresa 94 Empresa 85 Empresa 74 Empresa 71 Empresa 33 Empresa 31 
+
+Tamanho: 1064
+Tempo: 10 ms
+Valor: 27905
+Lances escolhidos: Empresa 993 Empresa 981 Empresa 954 Empresa 880 Empresa 859 Empresa 853 Empresa 842 Empresa 802 Empresa 782 Empresa 766 Empresa 765 Empresa 743 Empresa 683 Empresa 679 Empresa 636 Empresa 600 Empresa 578 Empresa 569 Empresa 525 Empresa 524 Empresa 499 Empresa 484 Empresa 468 Empresa 446 Empresa 389 Empresa 363 Empresa 346 Empresa 324 Empresa 317 Empresa 299 Empresa 284 Empresa 282 Empresa 242 Empresa 211 Empresa 202 Empresa 168 Empresa 122 Empresa 70 Empresa 64 Empresa 19 Empresa 0 
+
+Tamanho: 1064
+Tempo: 10 ms
+Valor: 25044
+Lances escolhidos: Empresa 1043 Empresa 1010 Empresa 922 Empresa 918 Empresa 892 Empresa 890 Empresa 827 Empresa 806 Empresa 789 Empresa 762 Empresa 739 Empresa 730 Empresa 699 Empresa 665 Empresa 639 Empresa 603 Empresa 514 Empresa 447 Empresa 378 Empresa 354 Empresa 346 Empresa 344 Empresa 305 Empresa 271 Empresa 257 Empresa 221 Empresa 218 Empresa 217 Empresa 210 Empresa 195 Empresa 188 Empresa 171 Empresa 160 Empresa 74 Empresa 14 
+
+Tamanho: 1064
+Tempo: 10 ms
+Valor: 27837
+Lances escolhidos: Empresa 1009 Empresa 1004 Empresa 1000 Empresa 991 Empresa 988 Empresa 937 Empresa 884 Empresa 883 Empresa 861 Empresa 836 Empresa 816 Empresa 745 Empresa 716 Empresa 691 Empresa 684 Empresa 587 Empresa 531 Empresa 512 Empresa 469 Empresa 462 Empresa 425 Empresa 387 Empresa 379 Empresa 359 Empresa 356 Empresa 346 Empresa 340 Empresa 338 Empresa 323 Empresa 285 Empresa 243 Empresa 238 Empresa 229 Empresa 219 Empresa 191 Empresa 189 Empresa 145 Empresa 111 Empresa 96 Empresa 52 Empresa 14 Empresa 1 
+
+Tamanho: 1064
+Tempo: 9 ms
+Valor: 27878
+Lances escolhidos: Empresa 1007 Empresa 995 Empresa 992 Empresa 989 Empresa 905 Empresa 904 Empresa 830 Empresa 820 Empresa 763 Empresa 751 Empresa 705 Empresa 697 Empresa 626 Empresa 623 Empresa 598 Empresa 538 Empresa 503 Empresa 469 Empresa 423 Empresa 393 Empresa 383 Empresa 381 Empresa 358 Empresa 334 Empresa 332 Empresa 320 Empresa 316 Empresa 310 Empresa 282 Empresa 207 Empresa 202 Empresa 160 Empresa 130 Empresa 119 Empresa 101 Empresa 73 Empresa 33 Empresa 4 
+
+Tamanho: 1064
+Tempo: 9 ms
+Valor: 30829
+Lances escolhidos: Empresa 1054 Empresa 1049 Empresa 1023 Empresa 1016 Empresa 987 Empresa 964 Empresa 953 Empresa 950 Empresa 948 Empresa 940 Empresa 926 Empresa 896 Empresa 895 Empresa 876 Empresa 813 Empresa 809 Empresa 804 Empresa 797 Empresa 746 Empresa 727 Empresa 712 Empresa 706 Empresa 694 Empresa 689 Empresa 589 Empresa 563 Empresa 561 Empresa 551 Empresa 541 Empresa 520 Empresa 496 Empresa 409 Empresa 395 Empresa 373 Empresa 339 Empresa 329 Empresa 291 Empresa 239 Empresa 205 Empresa 195 Empresa 151 Empresa 146 Empresa 115 Empresa 105 Empresa 85 Empresa 46 Empresa 17 
+
+Tamanho: 1064
+Tempo: 8 ms
+Valor: 22262
+Lances escolhidos: Empresa 1000 Empresa 967 Empresa 935 Empresa 932 Empresa 920 Empresa 899 Empresa 889 Empresa 855 Empresa 849 Empresa 801 Empresa 776 Empresa 730 Empresa 696 Empresa 691 Empresa 682 Empresa 659 Empresa 635 Empresa 591 Empresa 579 Empresa 524 Empresa 491 Empresa 465 Empresa 400 Empresa 381 Empresa 373 Empresa 368 Empresa 357 Empresa 329 Empresa 301 Empresa 277 Empresa 271 Empresa 254 Empresa 174 Empresa 134 Empresa 111 Empresa 52 Empresa 51 Empresa 32 
+
+Tamanho: 1064
+Tempo: 9 ms
+Valor: 27349
+Lances escolhidos: Empresa 1053 Empresa 1032 Empresa 1009 Empresa 974 Empresa 918 Empresa 890 Empresa 885 Empresa 880 Empresa 876 Empresa 875 Empresa 867 Empresa 866 Empresa 809 Empresa 799 Empresa 776 Empresa 764 Empresa 726 Empresa 669 Empresa 667 Empresa 666 Empresa 592 Empresa 590 Empresa 586 Empresa 573 Empresa 543 Empresa 498 Empresa 479 Empresa 478 Empresa 475 Empresa 455 Empresa 377 Empresa 367 Empresa 350 Empresa 324 Empresa 209 Empresa 193 Empresa 189 Empresa 167 Empresa 155 Empresa 147 Empresa 130 Empresa 122 Empresa 118 Empresa 30 
+
+Tamanho: 1064
+Tempo: 9 ms
+Valor: 26575
+Lances escolhidos: Empresa 1015 Empresa 973 Empresa 934 Empresa 933 Empresa 862 Empresa 860 Empresa 820 Empresa 816 Empresa 807 Empresa 796 Empresa 788 Empresa 779 Empresa 770 Empresa 760 Empresa 703 Empresa 688 Empresa 651 Empresa 613 Empresa 590 Empresa 571 Empresa 555 Empresa 506 Empresa 493 Empresa 465 Empresa 444 Empresa 441 Empresa 390 Empresa 344 Empresa 310 Empresa 281 Empresa 230 Empresa 191 Empresa 181 Empresa 93 Empresa 91 Empresa 75 Empresa 71 Empresa 45 Empresa 41 Empresa 13 
+
+Tamanho: 1064
+Tempo: 12 ms
+Valor: 27583
+Lances escolhidos: Empresa 1054 Empresa 1014 Empresa 1002 Empresa 988 Empresa 979 Empresa 932 Empresa 903 Empresa 878 Empresa 870 Empresa 846 Empresa 760 Empresa 738 Empresa 735 Empresa 701 Empresa 697 Empresa 679 Empresa 668 Empresa 626 Empresa 565 Empresa 547 Empresa 543 Empresa 537 Empresa 524 Empresa 516 Empresa 456 Empresa 406 Empresa 387 Empresa 332 Empresa 326 Empresa 323 Empresa 313 Empresa 303 Empresa 288 Empresa 284 Empresa 262 Empresa 252 Empresa 246 Empresa 217 Empresa 202 Empresa 163 Empresa 152 Empresa 141 Empresa 131 Empresa 113 Empresa 86 Empresa 77 
+
+Tamanho: 1064 - Média de tempo: 10 ms
+
+Tamanho: 1197
+Tempo: 10 ms
+Valor: 26936
+Lances escolhidos: Empresa 1190 Empresa 1173 Empresa 1089 Empresa 1078 Empresa 1068 Empresa 1037 Empresa 1022 Empresa 969 Empresa 898 Empresa 895 Empresa 877 Empresa 841 Empresa 832 Empresa 795 Empresa 783 Empresa 772 Empresa 696 Empresa 684 Empresa 681 Empresa 667 Empresa 654 Empresa 592 Empresa 522 Empresa 477 Empresa 462 Empresa 458 Empresa 391 Empresa 355 Empresa 350 Empresa 321 Empresa 275 Empresa 233 Empresa 212 Empresa 183 Empresa 166 Empresa 164 Empresa 130 Empresa 118 Empresa 71 Empresa 9 
+
+Tamanho: 1197
+Tempo: 10 ms
+Valor: 28954
+Lances escolhidos: Empresa 1155 Empresa 1151 Empresa 1127 Empresa 1111 Empresa 1100 Empresa 1066 Empresa 1051 Empresa 1040 Empresa 937 Empresa 921 Empresa 905 Empresa 868 Empresa 864 Empresa 810 Empresa 806 Empresa 740 Empresa 691 Empresa 653 Empresa 648 Empresa 608 Empresa 605 Empresa 568 Empresa 555 Empresa 514 Empresa 489 Empresa 456 Empresa 383 Empresa 375 Empresa 372 Empresa 297 Empresa 259 Empresa 253 Empresa 250 Empresa 241 Empresa 211 Empresa 207 Empresa 191 Empresa 188 Empresa 185 Empresa 170 Empresa 140 Empresa 129 Empresa 127 Empresa 114 Empresa 83 Empresa 76 
+
+Tamanho: 1197
+Tempo: 9 ms
+Valor: 32609
+Lances escolhidos: Empresa 1195 Empresa 1187 Empresa 1174 Empresa 1172 Empresa 1168 Empresa 1131 Empresa 1126 Empresa 1115 Empresa 1105 Empresa 1103 Empresa 1096 Empresa 1085 Empresa 1078 Empresa 1021 Empresa 1020 Empresa 975 Empresa 966 Empresa 944 Empresa 936 Empresa 924 Empresa 909 Empresa 869 Empresa 834 Empresa 800 Empresa 779 Empresa 756 Empresa 748 Empresa 738 Empresa 735 Empresa 685 Empresa 642 Empresa 636 Empresa 611 Empresa 521 Empresa 470 Empresa 464 Empresa 436 Empresa 395 Empresa 379 Empresa 354 Empresa 339 Empresa 315 Empresa 288 Empresa 219 Empresa 190 Empresa 115 Empresa 83 Empresa 38 Empresa 21 Empresa 7 
+
+Tamanho: 1197
+Tempo: 10 ms
+Valor: 29627
+Lances escolhidos: Empresa 1172 Empresa 1166 Empresa 1156 Empresa 1134 Empresa 1132 Empresa 1125 Empresa 1084 Empresa 1073 Empresa 1067 Empresa 1062 Empresa 1050 Empresa 1046 Empresa 1034 Empresa 1023 Empresa 1006 Empresa 927 Empresa 790 Empresa 747 Empresa 679 Empresa 592 Empresa 551 Empresa 513 Empresa 480 Empresa 446 Empresa 434 Empresa 423 Empresa 390 Empresa 384 Empresa 372 Empresa 328 Empresa 297 Empresa 276 Empresa 253 Empresa 244 Empresa 205 Empresa 171 Empresa 159 Empresa 156 Empresa 127 Empresa 83 Empresa 79 Empresa 71 Empresa 46 Empresa 8 
+
+Tamanho: 1197
+Tempo: 10 ms
+Valor: 24829
+Lances escolhidos: Empresa 1190 Empresa 1177 Empresa 1139 Empresa 1133 Empresa 1111 Empresa 1108 Empresa 1069 Empresa 1039 Empresa 884 Empresa 848 Empresa 777 Empresa 772 Empresa 708 Empresa 673 Empresa 670 Empresa 658 Empresa 621 Empresa 611 Empresa 582 Empresa 525 Empresa 514 Empresa 489 Empresa 482 Empresa 454 Empresa 421 Empresa 378 Empresa 367 Empresa 321 Empresa 313 Empresa 243 Empresa 190 Empresa 166 Empresa 137 Empresa 93 Empresa 68 Empresa 56 Empresa 13 Empresa 6 
+
+Tamanho: 1197
+Tempo: 10 ms
+Valor: 27376
+Lances escolhidos: Empresa 1192 Empresa 1170 Empresa 1085 Empresa 1004 Empresa 943 Empresa 915 Empresa 913 Empresa 900 Empresa 886 Empresa 815 Empresa 806 Empresa 793 Empresa 736 Empresa 667 Empresa 656 Empresa 520 Empresa 516 Empresa 505 Empresa 468 Empresa 457 Empresa 455 Empresa 443 Empresa 365 Empresa 353 Empresa 333 Empresa 312 Empresa 304 Empresa 286 Empresa 269 Empresa 242 Empresa 179 Empresa 163 Empresa 98 Empresa 80 Empresa 73 Empresa 62 Empresa 48 Empresa 25 Empresa 13 
+
+Tamanho: 1197
+Tempo: 11 ms
+Valor: 30512
+Lances escolhidos: Empresa 1180 Empresa 1167 Empresa 1162 Empresa 1137 Empresa 1087 Empresa 1080 Empresa 1058 Empresa 1037 Empresa 1004 Empresa 976 Empresa 961 Empresa 937 Empresa 930 Empresa 922 Empresa 913 Empresa 910 Empresa 903 Empresa 889 Empresa 879 Empresa 854 Empresa 844 Empresa 811 Empresa 808 Empresa 802 Empresa 749 Empresa 733 Empresa 696 Empresa 673 Empresa 665 Empresa 659 Empresa 638 Empresa 575 Empresa 558 Empresa 546 Empresa 532 Empresa 503 Empresa 493 Empresa 457 Empresa 446 Empresa 402 Empresa 354 Empresa 334 Empresa 314 Empresa 261 Empresa 201 Empresa 185 Empresa 178 Empresa 141 Empresa 110 Empresa 64 Empresa 27 Empresa 24 Empresa 12 Empresa 9 
+
+Tamanho: 1197
+Tempo: 13 ms
+Valor: 32899
+Lances escolhidos: Empresa 1176 Empresa 1113 Empresa 1095 Empresa 1091 Empresa 1088 Empresa 1085 Empresa 1083 Empresa 1065 Empresa 1036 Empresa 1033 Empresa 986 Empresa 933 Empresa 932 Empresa 887 Empresa 858 Empresa 833 Empresa 832 Empresa 825 Empresa 727 Empresa 723 Empresa 721 Empresa 702 Empresa 640 Empresa 624 Empresa 618 Empresa 576 Empresa 532 Empresa 478 Empresa 457 Empresa 411 Empresa 407 Empresa 385 Empresa 370 Empresa 350 Empresa 333 Empresa 296 Empresa 274 Empresa 237 Empresa 232 Empresa 223 Empresa 165 Empresa 144 Empresa 76 Empresa 63 Empresa 53 Empresa 46 Empresa 24 Empresa 23 Empresa 21 Empresa 4 
+
+Tamanho: 1197
+Tempo: 10 ms
+Valor: 28672
+Lances escolhidos: Empresa 1176 Empresa 1172 Empresa 1147 Empresa 1102 Empresa 1028 Empresa 1003 Empresa 997 Empresa 996 Empresa 982 Empresa 956 Empresa 948 Empresa 931 Empresa 911 Empresa 879 Empresa 848 Empresa 819 Empresa 814 Empresa 761 Empresa 752 Empresa 746 Empresa 734 Empresa 730 Empresa 703 Empresa 697 Empresa 602 Empresa 596 Empresa 551 Empresa 518 Empresa 505 Empresa 442 Empresa 290 Empresa 283 Empresa 282 Empresa 269 Empresa 262 Empresa 243 Empresa 198 Empresa 157 Empresa 117 Empresa 96 Empresa 72 Empresa 28 
+
+Tamanho: 1197
+Tempo: 11 ms
+Valor: 25482
+Lances escolhidos: Empresa 1172 Empresa 1166 Empresa 1155 Empresa 1045 Empresa 1021 Empresa 1004 Empresa 979 Empresa 929 Empresa 914 Empresa 887 Empresa 833 Empresa 744 Empresa 742 Empresa 692 Empresa 685 Empresa 678 Empresa 646 Empresa 626 Empresa 602 Empresa 573 Empresa 568 Empresa 521 Empresa 506 Empresa 494 Empresa 407 Empresa 403 Empresa 331 Empresa 280 Empresa 275 Empresa 264 Empresa 259 Empresa 257 Empresa 235 Empresa 234 Empresa 231 Empresa 203 Empresa 104 Empresa 30 Empresa 11 
+
+Tamanho: 1197 - Média de tempo: 10 ms
+
+Tamanho: 1330
+Tempo: 11 ms
+Valor: 27700
+Lances escolhidos: Empresa 1269 Empresa 1240 Empresa 1141 Empresa 1097 Empresa 1071 Empresa 1060 Empresa 1037 Empresa 995 Empresa 982 Empresa 952 Empresa 927 Empresa 875 Empresa 814 Empresa 757 Empresa 745 Empresa 713 Empresa 688 Empresa 674 Empresa 656 Empresa 647 Empresa 581 Empresa 557 Empresa 541 Empresa 503 Empresa 441 Empresa 440 Empresa 433 Empresa 407 Empresa 380 Empresa 371 Empresa 328 Empresa 316 Empresa 284 Empresa 247 Empresa 195 Empresa 193 Empresa 135 Empresa 126 Empresa 123 Empresa 108 Empresa 84 Empresa 62 Empresa 59 Empresa 20 
+
+Tamanho: 1330
+Tempo: 11 ms
+Valor: 25958
+Lances escolhidos: Empresa 1305 Empresa 1261 Empresa 1217 Empresa 1175 Empresa 1168 Empresa 1163 Empresa 1103 Empresa 1074 Empresa 1017 Empresa 1000 Empresa 936 Empresa 910 Empresa 879 Empresa 867 Empresa 833 Empresa 762 Empresa 735 Empresa 721 Empresa 687 Empresa 673 Empresa 657 Empresa 625 Empresa 576 Empresa 518 Empresa 474 Empresa 409 Empresa 403 Empresa 376 Empresa 359 Empresa 287 Empresa 266 Empresa 228 Empresa 183 Empresa 150 Empresa 139 Empresa 103 Empresa 101 Empresa 69 Empresa 19 Empresa 13 
+
+Tamanho: 1330
+Tempo: 10 ms
+Valor: 29649
+Lances escolhidos: Empresa 1314 Empresa 1311 Empresa 1210 Empresa 1120 Empresa 1112 Empresa 1066 Empresa 1039 Empresa 1014 Empresa 996 Empresa 976 Empresa 927 Empresa 904 Empresa 888 Empresa 845 Empresa 826 Empresa 812 Empresa 803 Empresa 795 Empresa 788 Empresa 741 Empresa 684 Empresa 670 Empresa 669 Empresa 606 Empresa 535 Empresa 506 Empresa 442 Empresa 341 Empresa 328 Empresa 322 Empresa 308 Empresa 305 Empresa 275 Empresa 251 Empresa 212 Empresa 204 Empresa 201 Empresa 176 Empresa 153 Empresa 114 Empresa 106 Empresa 10 
+
+Tamanho: 1330
+Tempo: 10 ms
+Valor: 26087
+Lances escolhidos: Empresa 1291 Empresa 1264 Empresa 1227 Empresa 1222 Empresa 1213 Empresa 1187 Empresa 1161 Empresa 1150 Empresa 1083 Empresa 1080 Empresa 1049 Empresa 1046 Empresa 1004 Empresa 937 Empresa 929 Empresa 924 Empresa 861 Empresa 837 Empresa 799 Empresa 752 Empresa 707 Empresa 703 Empresa 699 Empresa 684 Empresa 681 Empresa 645 Empresa 629 Empresa 592 Empresa 591 Empresa 580 Empresa 529 Empresa 448 Empresa 371 Empresa 341 Empresa 258 Empresa 241 Empresa 179 Empresa 171 Empresa 74 Empresa 46 Empresa 18 
+
+Tamanho: 1330
+Tempo: 16 ms
+Valor: 29881
+Lances escolhidos: Empresa 1301 Empresa 1252 Empresa 1222 Empresa 1211 Empresa 1195 Empresa 1189 Empresa 1181 Empresa 1156 Empresa 1119 Empresa 1073 Empresa 978 Empresa 963 Empresa 938 Empresa 914 Empresa 908 Empresa 865 Empresa 861 Empresa 833 Empresa 818 Empresa 757 Empresa 755 Empresa 718 Empresa 637 Empresa 582 Empresa 524 Empresa 507 Empresa 501 Empresa 428 Empresa 394 Empresa 393 Empresa 392 Empresa 282 Empresa 187 Empresa 161 Empresa 133 Empresa 106 Empresa 79 Empresa 39 Empresa 31 Empresa 17 Empresa 16 
+
+Tamanho: 1330
+Tempo: 20 ms
+Valor: 26797
+Lances escolhidos: Empresa 1316 Empresa 1207 Empresa 1159 Empresa 1115 Empresa 1099 Empresa 963 Empresa 956 Empresa 952 Empresa 896 Empresa 893 Empresa 892 Empresa 885 Empresa 862 Empresa 848 Empresa 687 Empresa 667 Empresa 646 Empresa 643 Empresa 620 Empresa 571 Empresa 565 Empresa 511 Empresa 498 Empresa 458 Empresa 430 Empresa 426 Empresa 410 Empresa 409 Empresa 396 Empresa 388 Empresa 383 Empresa 364 Empresa 348 Empresa 323 Empresa 320 Empresa 258 Empresa 234 Empresa 164 Empresa 139 Empresa 134 Empresa 85 Empresa 81 Empresa 7 
+
+Tamanho: 1330
+Tempo: 18 ms
+Valor: 30858
+Lances escolhidos: Empresa 1282 Empresa 1280 Empresa 1225 Empresa 1169 Empresa 1092 Empresa 1075 Empresa 1045 Empresa 941 Empresa 820 Empresa 799 Empresa 796 Empresa 784 Empresa 778 Empresa 752 Empresa 706 Empresa 702 Empresa 676 Empresa 651 Empresa 626 Empresa 623 Empresa 622 Empresa 603 Empresa 575 Empresa 486 Empresa 459 Empresa 426 Empresa 405 Empresa 384 Empresa 333 Empresa 330 Empresa 320 Empresa 309 Empresa 252 Empresa 241 Empresa 138 Empresa 136 Empresa 125 Empresa 114 Empresa 83 Empresa 61 Empresa 58 Empresa 8 
+
+Tamanho: 1330
+Tempo: 15 ms
+Valor: 27026
+Lances escolhidos: Empresa 1304 Empresa 1285 Empresa 1281 Empresa 1264 Empresa 1257 Empresa 1250 Empresa 1243 Empresa 1118 Empresa 1087 Empresa 1063 Empresa 1016 Empresa 978 Empresa 972 Empresa 948 Empresa 940 Empresa 911 Empresa 895 Empresa 861 Empresa 813 Empresa 736 Empresa 712 Empresa 706 Empresa 661 Empresa 660 Empresa 596 Empresa 545 Empresa 536 Empresa 475 Empresa 473 Empresa 440 Empresa 251 Empresa 161 Empresa 143 Empresa 97 Empresa 72 Empresa 50 Empresa 41 Empresa 21 
+
+Tamanho: 1330
+Tempo: 11 ms
+Valor: 28277
+Lances escolhidos: Empresa 1275 Empresa 1223 Empresa 1203 Empresa 1182 Empresa 1171 Empresa 1167 Empresa 1114 Empresa 1076 Empresa 1069 Empresa 993 Empresa 986 Empresa 976 Empresa 924 Empresa 905 Empresa 873 Empresa 866 Empresa 838 Empresa 829 Empresa 760 Empresa 754 Empresa 722 Empresa 694 Empresa 659 Empresa 638 Empresa 628 Empresa 610 Empresa 595 Empresa 542 Empresa 430 Empresa 389 Empresa 341 Empresa 300 Empresa 256 Empresa 223 Empresa 160 Empresa 148 Empresa 139 Empresa 133 Empresa 86 Empresa 50 Empresa 33 Empresa 2 
+
+Tamanho: 1330
+Tempo: 10 ms
+Valor: 26372
+Lances escolhidos: Empresa 1308 Empresa 1265 Empresa 1264 Empresa 1218 Empresa 1198 Empresa 1175 Empresa 1133 Empresa 1121 Empresa 1016 Empresa 1013 Empresa 982 Empresa 963 Empresa 952 Empresa 913 Empresa 909 Empresa 857 Empresa 768 Empresa 620 Empresa 619 Empresa 601 Empresa 581 Empresa 566 Empresa 530 Empresa 510 Empresa 509 Empresa 474 Empresa 408 Empresa 389 Empresa 348 Empresa 293 Empresa 290 Empresa 278 Empresa 269 Empresa 212 Empresa 207 Empresa 198 Empresa 196 Empresa 180 Empresa 164 Empresa 110 Empresa 55 Empresa 8 
+
+Tamanho: 1330 - Média de tempo: 13 ms
+
