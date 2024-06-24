@@ -1,0 +1,11 @@
+Tempo: 0 ms
+Melhor Valor: 3192
+
+Tempo: 165 ms
+Melhor Valor: 26725
+
+Tempo: 337 ms
+Valor: 26725
+Energia usada: 7588
+Lances escolhidos: E3 E4 E5 E6 E7 E9 E11 E12 E13 E14 E15 E16 E18 E19 E20 E22 E23 E24 E25 
+

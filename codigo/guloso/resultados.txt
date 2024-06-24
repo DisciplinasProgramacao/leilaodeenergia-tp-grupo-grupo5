@@ -1,40 +1,212 @@
+Estratégia 1 - Tempo médio: 3 ms, Valor : 277680
+Estratégia 2 - Tempo médio: 0 ms, Valor : 277680
+
+Estratégia 1 - Tempo médio: 3 ms, Valor : 392710
+Estratégia 2 - Tempo médio: 0 ms, Valor : 386730
+
 Tamanho: 133
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 9266
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4284
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 8514
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 3990
 
 Tamanho: 266
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 12490
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4061
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 13723
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4919
 
 Tamanho: 399
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 17188
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5244
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 17026
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7341
 
 Tamanho: 532
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 18225
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4987
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 18626
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6945
 
 Tamanho: 665
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 20608
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6429
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 21265
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5720
 
 Tamanho: 798
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 23488
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6217
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 22437
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7333
 
 Tamanho: 931
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 23854
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7083
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 24252
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7638
 
 Tamanho: 1064
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 25768
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5992
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 25956
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6818
 
 Tamanho: 1197
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 28645
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5869
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 28509
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6064
 
 Tamanho: 1330
-Estratégia 1 - Tempo médio: 0 ms, Valor médio: 31157
-Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6784
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 30463
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7457
+
+Tamanho: 133
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 8542
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5167
+
+Tamanho: 266
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 12906
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5464
+
+Tamanho: 399
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 15375
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5329
+
+Tamanho: 532
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 18907
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4837
+
+Tamanho: 665
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 21276
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5227
+
+Tamanho: 798
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 22497
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6907
+
+Tamanho: 931
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 25403
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7770
+
+Tamanho: 1064
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 25578
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7771
+
+Tamanho: 1197
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 27836
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5712
+
+Tamanho: 1330
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 29317
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6259
+
+Tamanho: 133
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 9609
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4376
+
+Tamanho: 266
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 13636
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4413
+
+Tamanho: 399
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 14993
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5823
+
+Tamanho: 532
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 18883
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5630
+
+Tamanho: 665
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 21329
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5022
+
+Tamanho: 798
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 23171
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5140
+
+Tamanho: 931
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 24581
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7756
+
+Tamanho: 1064
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 25843
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5912
+
+Tamanho: 1197
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 28625
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7190
+
+Tamanho: 1330
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 29544
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6584
+
+Estratégia 1 - Tempo médio: 3 ms, Valor : 267250
+Estratégia 2 - Tempo médio: 0 ms, Valor : 267250
+
+Tamanho: 133
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 8673
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 4397
+
+Tamanho: 266
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 13164
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5040
+
+Tamanho: 399
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 16476
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5736
+
+Tamanho: 532
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 18245
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5233
+
+Tamanho: 665
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 21310
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6912
+
+Tamanho: 798
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 21562
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5546
+
+Tamanho: 931
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 22793
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7453
+
+Tamanho: 1064
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 25913
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7133
+
+Tamanho: 1197
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 26622
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6792
+
+Tamanho: 1330
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 29322
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6481
+
+Estratégia 1 - Tempo médio: 2 ms, Valor : 267250
+Estratégia 2 - Tempo médio: 0 ms, Valor : 267250
+
+Tamanho: 133
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 9353
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5017
+
+Tamanho: 266
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 13726
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5925
+
+Tamanho: 399
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 16317
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6402
+
+Tamanho: 532
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 18900
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6058
+
+Tamanho: 665
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 20725
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5589
+
+Tamanho: 798
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 22085
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6732
+
+Tamanho: 931
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 24105
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6043
+
+Tamanho: 1064
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 26453
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 7160
+
+Tamanho: 1197
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 28117
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 6711
+
+Tamanho: 1330
+Estratégia 1 - Tempo médio: 0 ms, Valor médio: 29866
+Estratégia 2 - Tempo médio: 0 ms, Valor médio: 5502
 
